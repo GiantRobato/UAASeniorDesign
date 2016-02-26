@@ -5,8 +5,15 @@
 	-Rtabmap
 	-Screen
 
-## Usage
-	$./mainScript.sh
+## Installation
+```
+git clone https://github.com/penguindustin/UAASeniorDesign.git
+```
 
-	This runs the startKinect.sh script and the startRtab.sh script after a few seconds.
+
+## Usage
+```
+./mainScript.sh
+```
+This runs the startKinect.sh script and the startRtab.sh script after a few seconds.
 	
